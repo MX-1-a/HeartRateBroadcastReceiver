@@ -1,0 +1,5 @@
+PyQt5>=5.15
+bleak>=0.21
+pyqtgraph>=0.13
+numpy>=1.24
+openpyxl>=3.1
